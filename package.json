@@ -1,0 +1,17 @@
+{
+  "name": "udolphin-jenkins-hook-for-nanjing",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/js-yaml": "^3.12.1",
+    "@types/nsqjs": "^0.9.0",
+    "js-yaml": "^3.13.1",
+    "nsqjs": "^0.12.1"
+  }
+}
